@@ -1,0 +1,2 @@
+module Jav11Demo {
+}
