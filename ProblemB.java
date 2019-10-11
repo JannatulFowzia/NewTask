@@ -1,6 +1,6 @@
 import java.util.ArrayList;
    
-public class problemB {
+public class ProblemB {
 
 
         // Function to print an array p[] of size n 
