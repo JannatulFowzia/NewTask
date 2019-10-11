@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class problemA {
+public class ProblemA {
     public static void main(String[] args) {
         long startTime = System.currentTimeMillis();
 
