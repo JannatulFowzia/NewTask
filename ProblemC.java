@@ -3,7 +3,7 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;
 
-public class problemC {
+public class ProblemC {
 
     public static void main(String[] args) {
         long startTime = System.currentTimeMillis();
